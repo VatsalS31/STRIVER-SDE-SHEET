@@ -43,3 +43,9 @@ public:
 
     }
 };
+
+// TC O(3N)
+// SC O(1)
+
+//STL UPROACH 
+// return next_permutation(nums.begin(),nums.end());
