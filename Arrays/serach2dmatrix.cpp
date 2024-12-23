@@ -31,3 +31,6 @@ public:
 // do the normal binary search in 2d matrix just flatten the 2d matrix in to 1d array not physically just do in head to form the formula
 // so do get the 2d coordinates we will mind mid in n*m matrix and after dividing with m we will get row and modulo by m we will get col 
 // and then doing normal binary search
+
+// TC O(LOG(N*M))
+// SC O(1)
